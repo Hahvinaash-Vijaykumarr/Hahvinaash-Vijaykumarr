@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hahvinaash Vijaykumarr</h1>
-<h3 align="center">Passionate about Cybersecurity and AI from Singapore</h3>
+<h3 align="center">Passionate about Cybersecurity and Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **Cybersecurity concept via various platforms like HackTheBox and PicoCTF!**
 
