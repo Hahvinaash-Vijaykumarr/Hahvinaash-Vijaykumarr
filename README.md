@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Cybersecurity concept via various platforms like HackTheBox and PicoCTF!**
 
-- 📫 How to reach me **hahvinaash.v@gmail.com**
+- 📫 How to reach me: **hahvinaash.v@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=drive_link)
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=drive_link)
 
 - ⚡ Fun fact **I have Heterochromia!**
 
