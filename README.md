@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hahvinaash Vijaykumarr</h1>
 <h3 align="center">Passionate about Cybersecurity and Artificial Intelligence</h3>
 
-- 🌱 I’m or the CPTS (Certified Penetration Testing Specialist) certification by completing hands-on modules and labs on Hack Thecurrently learning **for the CPTS (Certified Penetration Testing Specialist) certification by completing hands-on modules and labs on Hack The Box.**
+- 🌱 I’m currently learning **for the CPTS (Certified Penetration Testing Specialist) certification by completing hands-on modules and labs on Hack The Box.**
 
 - 📫 How to reach me **hahvinaash.v@gmail.com**
 
