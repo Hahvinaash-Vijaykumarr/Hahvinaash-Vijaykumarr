@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **for the CPTS (Certified Penetration Testing Specialist) certification by completing hands-on modules and labs on Hack The Box.**
 
-- 📫 How to reach me **hahvinaash.v@gmail.com**
+- 📫 How to reach me: **hahvinaash.v@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=drive_link)
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=drive_link)
 
 - ⚡ Fun fact **I have Heterochromia!**
 
