@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **hahvinaash.v@gmail.com**
 
-- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=drive_link)
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wKB05JKKQApeffT3CZN8M6Gu6XS1dJ-H/view?usp=sharing)
 
 - ⚡ Fun fact **I have Heterochromia!**
 
